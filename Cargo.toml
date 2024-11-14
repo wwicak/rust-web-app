@@ -17,7 +17,7 @@ members = [
     "crates/services/web-server",
 
     # -- Tools
-    "crates/tools/gen-key", 
+    "crates/tools/gen-key", "test-acs", 
 ]
 
 # NOTE: Only the crates that are utilized in two or more sub-crates and benefit from global management

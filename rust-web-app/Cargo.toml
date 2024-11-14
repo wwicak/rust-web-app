@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "crates/libs/lib-core",
+    "test-acs",
+    # Add other crates if necessary
+]
+
